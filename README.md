@@ -12,7 +12,7 @@ This repository contains selected past projects I have contributed to, demonstra
 **Tech Stack:** Python, NLP, Flask  
 **My Contributions:** Built intent classifier, designed conversation flow
 
-🔗 Repository: https://github.com/Osmosisis/REPO-NAME
+[🔗 Repository: https://github.com/Osmosisis/REPO-NAME](https://github.com/Osmosisis/CookMate)
 
 ---
 
