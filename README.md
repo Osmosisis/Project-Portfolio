@@ -6,17 +6,24 @@ This repository contains selected past projects I have contributed to, demonstra
 
 ## 🚀 Featured Projects
 
-### 1️⃣ CookMate – AI Recipe Assistant
-**Description:** AI chatbot that recommends recipes based on ingredients and preferences.
+### 1 CareConnect – A multi-module web application built for seniors
+**Description:** A multi-module web application built for seniors to manage daily tasks, medications, appointments, health records and social events—all in one place.
 
-**Tech Stack:** Python, NLP, Flask  
-**My Contributions:** Built intent classifier, designed conversation flow
+**Tech Stack:** Node.js & Express
+Microsoft SQL Server (via mssql)
+Authentication: bcrypt + jsonwebtoken (JWT)
+Validation: joi
+Front-end: static HTML/CSS/JS (served from /public)
+FullCalendar javascript API : Interactive drag & drop calendar interface for reminders
+Cloudinary API: easy to access database for image uploadds 
+**My Contributions:** Medication Manager: track dosages & schedules
+Emergency Quick-Dial : allows user to easily check and find emergency contacts and details
 
-[🔗 Repository: https://github.com/Osmosisis/REPO-NAME](https://github.com/Osmosisis/CookMate)
+🔗 Repository: [https://github.com/Osmosisis/REPO-NAME](https://github.com/s10270089/BED-Assignment-Team.git)
 
 ---
 
-### 2️⃣ Recipository – Recipe Sharing Platform
+### 2 Recipository – Recipe Sharing Platform
 **Description:** Web platform for discovering and sharing recipes.
 
 **Tech Stack:** Node.js, Express, MSSQL  
@@ -26,7 +33,7 @@ This repository contains selected past projects I have contributed to, demonstra
 
 ---
 
-### 3️⃣ Car Rental System – Java MVC
+### 3 Car Rental System – Java MVC
 **Description:** Desktop application implementing MVC architecture.
 
 **Tech Stack:** Java, OOP, MVC  
